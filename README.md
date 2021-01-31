@@ -1,5 +1,5 @@
 # ESP8266-Temperature-measurement-open-system
-Пример датчика температуры окружающей среды (схема+программа) для работы с окрытой системой https://github.com/alexandr-blinkov/vue-ymaps
+Пример датчика температуры окружающей среды (схема+программа) для работы с окрытой системой (https://github.com/grinzya/Temp_Stirage_System_backend и https://github.com/alexandr-blinkov/vue-ymaps)
 # Описание
 # Модули для работы системы
 * Контроллер ESP8266
